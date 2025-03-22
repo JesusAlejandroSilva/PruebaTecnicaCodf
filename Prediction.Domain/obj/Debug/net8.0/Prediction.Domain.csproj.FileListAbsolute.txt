@@ -1,0 +1,11 @@
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\bin\Debug\net8.0\Prediction.Domain.deps.json
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\bin\Debug\net8.0\Prediction.Domain.dll
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\bin\Debug\net8.0\Prediction.Domain.pdb
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.AssemblyInfoInputs.cache
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.AssemblyInfo.cs
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.dll
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\refint\Prediction.Domain.dll
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\Prediction.Domain.pdb
+C:\Users\alejo\source\repos\PruebaTecnica\Prediction.Domain\obj\Debug\net8.0\ref\Prediction.Domain.dll
